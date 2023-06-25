@@ -1,1 +1,1 @@
-const apikey = "37690800-900899a27582918f73bf0c6c9";
+const apikey = "Api Key";

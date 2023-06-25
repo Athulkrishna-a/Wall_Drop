@@ -1,6 +1,6 @@
 # wall_drop
 
-A new Flutter project.
+Wallpaper  App based on flutter using Unsplash Api
 
 ## Getting Started
 
